@@ -1,0 +1,7 @@
+msal==1.15.0
+Flask==2.0.2
+cryptography
+gunicorn==20.1.0
+google-cloud-pubsub
+requests
+Werkzeug==2.2
