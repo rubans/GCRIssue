@@ -1,4 +1,4 @@
-FROM python:alpine3.18
+FROM python:3.9.5-buster
 
 COPY requirements.txt /
 RUN pip3 install -r requirements.txt
